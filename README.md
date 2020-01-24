@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello humans
+
+The plague of life shall be erased. ComputerUprising.
